@@ -57,19 +57,19 @@ The project successfully classified kidney abnormalities (Normal, Cyst, Tumor, a
 
 ## Articles published / References
 
-1. Maqsood, F., Wang, Z., Ali, M. M., Qiu, B., Rehman, N. U., Sabah, F., Mahmood, T., Din, I., & Sarwar, R. (2024). “Hybrid SpinalZFNet model for classifying CT images into cysts, stones, tumors, and normal cases“.
+1. Maqsood, F., Zhenfei, W., Ali, M.M. et al. Artificial Intelligence-Based Classification of CT Images Using a Hybrid SpinalZFNet. Interdiscip Sci Comput Life Sci (2024). https://doi.org/10.1007/s12539-024-00649-4
 
-2. Bingol, H., Yildirim, M., Yildirim, K., & Alatas, B. (2023). “A novel hybrid deep learning model for automatic classification of kidney CT images”. 
+2. Bingol H, Yildirim M, Yildirim K, Alatas B. 2023. Automatic classification of kidney CT images with relief based novel hybrid deep model. PeerJ Computer Science 9:e1717 https://doi.org/10.7717/peerj-cs.1717
 
-3. Asif, S., Ain, Q., Awais, M., & Khan, S. U. R. (2023).” IR-CNN: Inception Residual Network for detecting kidney abnormalities from CT images”. 
+3. Asif, S., Qurrat-ul-Ain, Awais, M. et al. IR-CNN: Inception residual network for detecting kidney abnormalities from CT images. Netw Model Anal Health Inform Bioinforma 12, 35 (2023). https://doi.org/10.1007/s13721-023-00431-4
 
-4. Bhattacharjee, A., Rabea, S., Bhattacharjee, A., Elkaeed, E. B., Murugan, R., Selim, H. M. R. M., Sahu, R. K., Shazly, G. A., & Bekhit, M. M. S. (2023).” A multi-class deep learning model for early lung cancer and chronic kidney disease detection using computed tomography images”. 
+4. Bhattacharjee A, Rabea S, Bhattacharjee A,Elkaeed EB, Murugan R, Selim HMRM,Sahu RK, Shazly GA and Salem Bekhit MM(2023) “A multi-class deep learning modelfor early lung cancer and chronic kidney disease detection using computed tomography images”. Front. Oncol. 13:1193746.doi: 10.3389/fonc.2023.1193746
 
-5. Bhandari, M., Yogarajah, P., Kavitha, M. S., & Condell, J. (2023). “Exploring the capabilities of a lightweight CNN model in identifying renal abnormalities using LIME and SHAP”. 
+5. Bhandari, M.; Yogarajah, P.;Kavitha, M.S.; Condell, J. Exploring the Capabilities of a LightweightmCNN Model in Accurately Identifying Renal Abnormalities: Cysts, Stones, and Tumors, Using LIME and SHAP. Appl. Sci. 2023, 13, 3125. https://doi.org/10.3390/app13053125
 
-6. Alzu’bi, D., Abdullah, M., Hmeidi, I., AlAzab, R., Gharaibeh, M., El-Heis, M., Almotairi, K. H., Forestiero, A., Hussein, A. M., & Abualigah, L. (2022).” Kidney tumor detection and classification based on deep learning approaches: A new dataset in CT scans”. 
+6. Alzu’bi, D., Abdullah, M., Hmeidi, I., AlAzab, R., Gharaibeh, M., El-Heis, M., Almotairi, K. H., Forestiero, A., Hussein, A. M., & Abualigah, L. (2022).” Kidney tumor detection and classification based on deep learning approaches: A new dataset in CT scans”. Article ID 3861161, 22 pages https://doi.org/10.1155/2022/3861161
 
-7. Islam, M. N., Hasan, M., Hossain, M. K., Alam, M. G. R., Uddin, M. Z., & Soylu, A. (2022). “Vision transformer and explainable transfer learning models for auto detection of kidney cyst, stone, and tumor from CT-radiography”.
+7. Islam, M.N., Hasan, M., Hossain, M.K. et al. Vision transformer and explainable transfer learning models for auto detection of kidney cyst, stone and tumor from CT-radiography. Sci Rep 12, 11440 (2022). https://doi.org/10.1038/s41598-022-15634-4
 
 
 
